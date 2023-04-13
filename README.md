@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Andrés Winckler</h1>
 <h3 align="center">Ingeniero Químico y apasionado Desarrollador FullStack</h3>
 
-- 🌱 Estoy estudiando **Tecnicatura Universitaria en Progamación - HTML - CSS - JS - Python - Java - MySQL**
+- 🌱 Estoy estudiante del 2º año de la **Tecnicatura Universitaria en Progamación - HTML - CSS - JS - Python - Java - MySQL**
 
 - 👨‍💻 All of my projects are available at [www.github/andreswinck](www.github/andreswinck)
 
