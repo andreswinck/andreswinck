@@ -3,13 +3,13 @@
 
 - 🌱 Estudiante del 2º año de la **Tecnicatura Universitaria en Progamación - HTML - CSS - JS - Python - Java - MySQL**
 
-- 👨‍💻 All of my projects are available at [www.github/andreswinck](www.github/andreswinck)
+- 👨‍💻 Todos mis proyectos están disponibles en [www.github/andreswinck](www.github/andreswinck)
 
-- Uno de mis desarrollos publicados ** https://andreswinck.github.io/tecnicaturaGit/ **
+- Uno de mis desarrollos WEB publicados ** https://andreswinck.github.io/tecnicaturaGit/ **
 
 - 💬 Contacto Linkedin **www.linkedin.com/in/andreswinckler**
 
-- 📫 Como contactarme **andreswinckler@gmail.com**
+- 📫 Como contactarme por mail **andreswinckler@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
