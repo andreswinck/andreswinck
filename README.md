@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [www.github/andreswinck](www.github/andreswinck)
 
+- Uno de mis desarrllos publicados ** https://andreswinck.github.io/tecnicaturaGit/ **
+
 - 💬 Contacto Linkedin **www.linkedin.com/in/andreswinckler**
 
 - 📫 Como contactarme **andreswinckler@gmail.com**
