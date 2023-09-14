@@ -5,8 +5,8 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [www.github/andreswinck](www.github/andreswinck)
 
-- Desarrollos WEB publicados ** https://andreswinck.github.io/tecnicaturaGit/ **
-                          - ** https://annidadatech.netlify.app/ **
+- Desarrollos WEB publicados ** https://andreswinck.github.io/tecnicaturaGit/ ** <br>
+                          - ** https://annidadatech.netlify.app/ ** <br>
                           - ** https://vitalmist.mitiendanube.com/ **
 
 - 💬 Contacto Linkedin **www.linkedin.com/in/andreswinckler**
