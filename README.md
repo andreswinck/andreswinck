@@ -1,5 +1,5 @@
 <h1 align="center"> Andrés Winckler</h1>
-<h3 align="center">Ingeniero Químico y apasionado Desarrollador FullStack</h3>
+<h3 align="center">Ingeniero Químico y Desarrollador FullStack</h3>
 
 - 🌱 Estudiante del 2º año de la **Tecnicatura Universitaria en Progamación - HTML - CSS - JS - Python - Java - MySQL**
 
