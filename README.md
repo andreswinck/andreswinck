@@ -3,8 +3,6 @@
 
 - 🌱 Estudiante del 2º año de la **Tecnicatura Universitaria en Progamación - HTML - CSS - JS - Python - Java - MySQL**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [www.github/andreswinck](www.github/andreswinck)
-
 - Desarrollos WEB publicados <br>
 -  ** https://andreswinck.github.io/tecnicaturaGit/ ** <br>
 - ** https://annidadatech.netlify.app/ ** <br>
